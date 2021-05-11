@@ -1,0 +1,12 @@
+tr{
+    padding: auto;
+}
+.hv{
+    color: rgba(0, 0, 0);
+    background: linear-gradient(#ffffcc, #ffffb3);
+}
+.hv:hover{
+    color: cornsilk;
+    background-color: darkblue;
+    transition: .8s;
+}
